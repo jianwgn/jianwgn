@@ -1,30 +1,13 @@
-```bash
-$ whoami
-
-Jian Wagan
-
-$ uname
-
-BS Computer Science
-Mapúa University
-
-$ interests
-
-Cybersecurity
-Software Engineering
-Networks
-Digital Forensics
-
-$ hobbies
-
-Scouting
-Bass
-Photography
-Video Editing
-
-$ cat goals.txt
-
-Become a cybersecurity engineer.
-Contribute to open source.
-Build useful software.
-```
+<pre>
+  Hi this is
+┌──────────────────────────────────────────────────────────┐
+│       _________   _  __  _      _____  ________   _  __  │
+│   __ / /  _/ _ | / |/ / | | /| / / _ |/ ___/ _ | / |/ /  │
+│  / // // // __ |/    /  | |/ |/ / __ / (_ / __ |/    /   │
+│  \___/___/_/ |_/_/|_/   |__/|__/_/ |_\___/_/ |_/_/|_/    │
+│                                                          │                                                           
+└──────────────────────────────────────────────────────────┘
+  ➤ 🏫 BS Computer Science @ Mapúa University             
+  ➤ i make things                                          
+────────────────────────────────────────────────────────────
+</pre>
